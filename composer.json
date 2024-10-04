@@ -3,7 +3,7 @@
     "description": "This project will be used to test some vulnerabilities",
     "type": "project",
     "require": {}, 
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "repositories": [
         {
             "type": "svn",
