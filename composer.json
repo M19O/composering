@@ -6,7 +6,8 @@
         }
     "repositories": [
         {
-            "type": "vcs",
+            "type": "svn",
             "url": "https://github.com/M19O/composoring"
         }
-    ]
+    ] 
+        }
