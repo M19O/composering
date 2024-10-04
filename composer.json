@@ -2,7 +2,8 @@
     "name": "cyberdose/hackit",
     "description": "This project will be used to test some vulnerabilities",
     "type": "project",
-    "require": {},
+    "require": {}, 
+    "minimum-stability": "dev",
     "repositories": [
         {
             "type": "svn",
