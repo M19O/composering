@@ -2,7 +2,7 @@
     "name": "cyberdose/hackit",
     "description": "This project will be used to test some vulnerabilities",
     "type": "project",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "repositories": [
         {
