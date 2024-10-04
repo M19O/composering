@@ -2,11 +2,11 @@
     "name": "cyberdose/hackit",
     "description": "This project will be used to test some vulnerabilities",
     "type": "project",
-    "require": {}
-},
-"repositories": [
+    "require": {},
+    "repositories": [
         {
-            "type": "vcs",
-            "url": "http://svn.example.com/path/to/myLibrary"
+            "type": "svn",
+            "url": "https://github.com/M19O/composoring"
         }
     ]
+}
