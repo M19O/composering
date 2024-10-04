@@ -1,8 +1,13 @@
 {
     "authors": [
         {
-            "name": "gonna hack",
-            "email": "hackit@1337.com",
+            "name": "Gonna hackit",
+            "email": "hackit@hackit.com",
+        }
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/M19O/composoring"
         }
     ]
 }
