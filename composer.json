@@ -4,6 +4,7 @@
     "type": "project",
     "require": {}
 }
+[
 "repositories": [
         {
             "type": "vcs",
