@@ -11,6 +11,7 @@
             "url": "--config=alias.identify=!curl http://192.168.72.129"
         }
     ],
+    [
     "minimum-stability": "stable",
     "license": "MIT"
     ]
