@@ -2,9 +2,6 @@
     "name": "cyberdose/hackit",
     "description": "Hacking project",
     "type": "project",
-    "require": {
-        "monolog/monolog": "^2.0",
-    },
     "repositories": [
         {
             "type": "vcs",
